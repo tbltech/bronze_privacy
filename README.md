@@ -1,14 +1,13 @@
-Privacy Policy for First Steps
+Privacy Policy for Bronze
 
-Last updated: [Date]
 
-This Privacy Policy outlines how First Steps ("us", "we", or "our") collects, uses, maintains, and discloses information collected from users ("user" or "you") of the First Steps mobile application.
+This Privacy Policy outlines how Bronze ("us", "we", or "our") collects, uses, maintains, and discloses information collected from users ("user" or "you") of the Bronze mobile application.
 
 1. Information We Collect
 
 1.1. Personal Information
 
-First Steps may collect personal information from users, such as names, email addresses, phone numbers, or any other information that users provide voluntarily. We collect this information only when users willingly submit it, for example, when registering for an account or filling out a form within the app.
+Bronze may collect personal information from users, such as names, email addresses, phone numbers, or any other information that users provide voluntarily. We collect this information only when users willingly submit it, for example, when registering for an account or filling out a form within the app.
 
 1.2. Non-personal Information
 
