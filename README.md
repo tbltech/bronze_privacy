@@ -52,6 +52,6 @@ By using this app, you signify your acceptance of this policy. If you do not agr
 If you have any questions about this Privacy Policy, the practices of this app, or your dealings with this app, please contact us at:
 
 
-info@firststepsye.com
+Info@bronzeksa.com
 
 
